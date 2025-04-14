@@ -1,0 +1,61 @@
+Attack_Type,Rank,Feature,Importance
+DDoS,1,Financial Loss (in Million $),0.15555185326562887
+DDoS,2,Number of Affected Users,0.15233372584525848
+DDoS,3,Incident Resolution Time (in Hours),0.13281590075099214
+DDoS,4,Year,0.0916228159937969
+DDoS,5,Security Vulnerability Type_Social Engineering,0.019089161612795492
+DDoS,6,Security Vulnerability Type_Weak Passwords,0.0189486051737704
+DDoS,7,Security Vulnerability Type_Unpatched Software,0.018421074206686407
+DDoS,8,Attack Source_Nation-state,0.01842082880996413
+DDoS,9,Attack Source_Hacker Group,0.018041781864661797
+DDoS,10,Defense Mechanism Used_Firewall,0.017943671873874568
+Malware,1,Financial Loss (in Million $),0.1560101226919409
+Malware,2,Number of Affected Users,0.15239846154627956
+Malware,3,Incident Resolution Time (in Hours),0.13789756022250788
+Malware,4,Year,0.09149208460555586
+Malware,5,Attack Source_Nation-state,0.019263737549979894
+Malware,6,Attack Source_Unknown,0.01911013419326293
+Malware,7,Security Vulnerability Type_Zero-day,0.018610708635166916
+Malware,8,Security Vulnerability Type_Weak Passwords,0.017962936177740384
+Malware,9,Attack Source_Insider,0.017738621493521324
+Malware,10,Security Vulnerability Type_Social Engineering,0.017702878288220175
+Man-in-the-Middle,1,Financial Loss (in Million $),0.15718201561518233
+Man-in-the-Middle,2,Number of Affected Users,0.1555252323025644
+Man-in-the-Middle,3,Incident Resolution Time (in Hours),0.14010550101285402
+Man-in-the-Middle,4,Year,0.0898149078291936
+Man-in-the-Middle,5,Attack Source_Nation-state,0.019318429683979316
+Man-in-the-Middle,6,Attack Source_Hacker Group,0.01882381057524059
+Man-in-the-Middle,7,Security Vulnerability Type_Weak Passwords,0.01773980123396166
+Man-in-the-Middle,8,Defense Mechanism Used_Firewall,0.01763336407728181
+Man-in-the-Middle,9,Attack Source_Insider,0.017526682582668134
+Man-in-the-Middle,10,Attack Source_Unknown,0.01736415236074502
+Phishing,1,Financial Loss (in Million $),0.15229504320887569
+Phishing,2,Number of Affected Users,0.14891595298451143
+Phishing,3,Incident Resolution Time (in Hours),0.13864273830902232
+Phishing,4,Year,0.08922552362708279
+Phishing,5,Attack Source_Nation-state,0.02054617397172381
+Phishing,6,Security Vulnerability Type_Social Engineering,0.019605625876205176
+Phishing,7,Security Vulnerability Type_Zero-day,0.019562318833208393
+Phishing,8,Attack Source_Unknown,0.018884581640807536
+Phishing,9,Security Vulnerability Type_Weak Passwords,0.018638506680302876
+Phishing,10,Attack Source_Insider,0.018614275240742058
+Ransomware,1,Number of Affected Users,0.15380145334286446
+Ransomware,2,Financial Loss (in Million $),0.15370591087666968
+Ransomware,3,Incident Resolution Time (in Hours),0.13338681023324553
+Ransomware,4,Year,0.08979725938033191
+Ransomware,5,Attack Source_Hacker Group,0.019818037963634908
+Ransomware,6,Attack Source_Nation-state,0.019760634310699896
+Ransomware,7,Attack Source_Unknown,0.019751754064650285
+Ransomware,8,Attack Source_Insider,0.019395767975602884
+Ransomware,9,Defense Mechanism Used_VPN,0.018681307699532204
+Ransomware,10,Defense Mechanism Used_Encryption,0.018221032003045323
+SQL Injection,1,Financial Loss (in Million $),0.15514804349334418
+SQL Injection,2,Number of Affected Users,0.15334427540071657
+SQL Injection,3,Incident Resolution Time (in Hours),0.13983544203142262
+SQL Injection,4,Year,0.09087012495113939
+SQL Injection,5,Security Vulnerability Type_Zero-day,0.0204239820081846
+SQL Injection,6,Security Vulnerability Type_Unpatched Software,0.01991605323132029
+SQL Injection,7,Security Vulnerability Type_Weak Passwords,0.019623839269271668
+SQL Injection,8,Security Vulnerability Type_Social Engineering,0.018674347646123822
+SQL Injection,9,Attack Source_Nation-state,0.017451159814962754
+SQL Injection,10,Defense Mechanism Used_Antivirus,0.017391723867563623

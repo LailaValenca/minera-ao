@@ -1,0 +1,21 @@
+Feature,XGBoost_Importance
+Target Industry_Government,0.044
+Financial Loss (in Million $),0.043
+Number of Affected Users,0.043
+Security Vulnerability Type_Zero-day,0.043
+Attack Source_Nation-state,0.042
+Incident Resolution Time (in Hours),0.042
+Target Industry_Telecommunications,0.042
+Attack Source_Hacker Group,0.042
+Target Industry_Retail,0.042
+Target Industry_Banking,0.042
+Target Industry_IT,0.041705012
+Defense Mechanism Used_AI-based Detection,0.041
+Defense Mechanism Used_Encryption,0.041
+Attack Source_Unknown,0.0411
+Defense Mechanism Used_Antivirus,0.041
+Target Industry_Healthcare,0.040
+Year,0.040
+Defense Mechanism Used_VPN,0.040
+Defense Mechanism Used_Firewall,0.040
+Security Vulnerability Type_Weak Passwords,0.040

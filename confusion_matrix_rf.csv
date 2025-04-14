@@ -1,0 +1,7 @@
+,DDoS,Malware,Man-in-the-Middle,Phishing,Ransomware,SQL Injection
+DDoS,30,15,16,23,11,11
+Malware,21,13,10,26,16,11
+Man-in-the-Middle,23,7,17,17,15,13
+Phishing,22,14,15,22,15,18
+Ransomware,19,11,11,19,21,18
+SQL Injection,20,14,12,26,17,11
