@@ -1,7 +1,0 @@
-Attack Type,Financial Loss Total (Billion $),Financial Loss Mean (Million $),Financial Loss Median (Million $),Affected Users Total (Millions),Affected Users Mean (Thousands),Affected Users Median (Thousands),Resolution Time Total (Days),Resolution Time Mean (Hours),Resolution Time Median (Hours)
-DDoS,27.63B,52.04M,53.46M,265.2M,499.4K,491.8K,790,35.7,35
-Malware,23.97B,49.42M,50.02M,246.8M,508.8K,500.7K,749,37.1,36
-Man-in-the-Middle,23.55B,51.31M,52.04M,238.7M,520.1K,529.6K,705,36.9,36
-Phishing,26.69B,50.46M,49.08M,257.7M,487.2K,471.6K,792,35.9,35
-Ransomware,24.48B,49.65M,49.56M,247.9M,502.8K,504.2K,750,36.5,38
-SQL Injection,25.16B,50.01M,51.26M,257.8M,512.5K,520.3K,774,36.9,37
